@@ -1,0 +1,7 @@
+@import "style.css";
+@import "menstyle.css";
+#women1{
+  padding:10px 10px 10px 20px;
+  height:700px;
+  background:linear-gradient(white,#ffc0d3);
+}
